@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Olá! Eu sou [Seu Nome]  
+# 👋 Olá! Eu sou Junior Muniz
 
 Desenvolvedor Full Stack e Mobile apaixonado por criar aplicações eficientes e escaláveis.  
 
