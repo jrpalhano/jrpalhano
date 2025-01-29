@@ -7,7 +7,7 @@ Desenvolvedor Full Stack e Mobile apaixonado por criar aplicações eficientes e
 - **Front-end:** React, React Native, Next.js  
 - **Back-end:** Node.js, NestJS, Express  
 - **Banco de Dados:** PostgreSQL, MongoDB 
-- **Outros:** TypeScript, ocker  
+- **Outros:** TypeScript, Docker
 
 📌 Aqui você encontrará projetos open-source, estudos e soluções para desenvolvimento web e mobile.  
 
