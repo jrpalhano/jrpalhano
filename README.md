@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Olá! Eu sou Junior Muniz
 
-Desenvolvedor Full Stack e Mobile apaixonado por criar aplicações eficientes e escaláveis.  
+Desenvolvedor Full Stack e Mobile criador de aplicações eficientes e escaláveis.  
 
 🚀 **Tecnologias:**  
 - **Front-end:** React, React Native, Next.js  
