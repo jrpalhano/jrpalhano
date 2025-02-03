@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Olá! Eu sou Junior Muniz
 
 Desenvolvedor Full Stack e Mobile criador de aplicações eficientes e escaláveis.  
